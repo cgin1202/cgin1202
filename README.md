@@ -15,5 +15,8 @@
 - openCV
 - etc (CF Algorithm, Vision AI)
 
+### blog
+
+- https://ppolleppolle.tistory.com/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgin1202&langs_count=8)](https://github.com/cgin1202)
