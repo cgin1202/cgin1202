@@ -15,7 +15,7 @@
 - openCV
 - etc (CF Algorithm, Vision AI)
 
-### blog
+### blog (it is not running yet.)
 
 - https://ppolleppolle.tistory.com/
 
