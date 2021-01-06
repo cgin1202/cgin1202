@@ -10,12 +10,15 @@
 
 ### Skill 
 
-- C++, Python (Django), JAVA (JSP, Boot), Javascript (Ajax, c3)
-- AWS RDS MySQL
+- C++, Python (Django), Javascript (Ajax, c3)
+- MySQL
 - openCV
+- AWS RDS
+- JAVA, JSP, Servlet, Spring (ING)
 - etc (CF Algorithm, Vision AI)
 
-### blog (it is not running yet.)
+
+### blog
 
 - https://ppolleppolle.tistory.com/
 
