@@ -10,11 +10,11 @@
 
 ### Skill 
 
-- C++, Python (Django), Javascript (Ajax, c3)
+- C++, Python (Django), Javascript (Ajax, c3, jQuery)
 - MySQL, Oracle
 - openCV
 - AWS RDS, EC2
-- JAVA, JSP, Servlet, Spring
+- JAVA, JSP, Servlet, Spring, Spring Boot
 - etc (CF Algorithm, Vision AI)
 
 
